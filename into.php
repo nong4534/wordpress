@@ -1,1 +1,1 @@
-<php>echo "test";</php><?php phpinto(); ?>
+<?php phpinto(); ?>
